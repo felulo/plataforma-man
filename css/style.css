@@ -1,0 +1,25 @@
+body {
+	background-color: gray;
+	font-family: Verdana, sans-serif;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+}
+
+div {
+	margin: 0 auto;
+
+	width: 814px;
+	height: 608px;
+}
+
+#cvPrincipal {
+	padding: 5px;
+
+	border: 2px dashed black;
+	border-radius: 5px;
+
+	background-color: white;
+}
